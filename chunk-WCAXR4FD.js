@@ -1,1 +1,0 @@
-import{Vb as r,ab as n,wb as s,xb as i}from"./chunk-V42WVXN4.js";var m=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-requirements"]],decls:2,vars:0,consts:[[2,"margin","20px"]],template:function(e,a){e&1&&(s(0,"p",0),r(1,"Requirements works!"),i())},encapsulation:2})};export{m as Requirements};
