@@ -1,0 +1,1 @@
+import{Vb as m,ab as n,wb as o,xb as s}from"./chunk-V42WVXN4.js";var c=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-documents"]],decls:2,vars:0,consts:[[2,"margin","20px"]],template:function(e,i){e&1&&(o(0,"p",0),m(1,"Documents works!"),s())},encapsulation:2})};export{c as Documents};

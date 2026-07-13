@@ -42,8 +42,8 @@
 <SharePoint:FormDigest runat="server" />
     <app-root></app-root>
   
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/chunk-FLEC76V3.js">
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/chunk-3QTX3AFR.js">
-<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/chunk-TTCIFKC2.js">
-<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/main-I4M4PSEV.js" type="module"></script></body>
+<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/chunk-OBFZRRKP.js">
+<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/chunk-7TEHYCGE.js">
+<link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/chunk-V42WVXN4.js">
+<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/main-FQRWETYA.js" type="module"></script></body>
 </html>
