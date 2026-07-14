@@ -1,0 +1,1 @@
+import{Ab as o,Bb as r,_b as a,eb as n}from"./chunk-XMGTUUZ7.js";var c=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-cdrl"]],decls:2,vars:0,template:function(e,s){e&1&&(o(0,"p"),a(1,"cdrl works!"),r())},encapsulation:2})};export{c as Cdrl};
