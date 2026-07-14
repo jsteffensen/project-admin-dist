@@ -45,5 +45,5 @@
 <link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/chunk-PSZRGYAY.js">
 <link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/chunk-CH42YY3G.js">
 <link rel="modulepreload" href="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/chunk-VCOBWY3K.js">
-<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/main-CYU4WIAS.js" type="module"></script></body>
+<script src="https://collab.napma.nato.int/flep/mstd/SiteAssets/ProjectAdmin/main-CARQLP6G.js" type="module"></script></body>
 </html>
