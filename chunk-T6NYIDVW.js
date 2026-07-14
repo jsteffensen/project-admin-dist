@@ -1,0 +1,1 @@
+import{Wb as a,bb as o,xb as t,yb as r}from"./chunk-UKPQNSJI.js";var c=class n{static \u0275fac=function(e){return new(e||n)};static \u0275cmp=o({type:n,selectors:[["app-correspondance"]],decls:2,vars:0,template:function(e,p){e&1&&(t(0,"p"),a(1,"correspondance works!"),r())},encapsulation:2})};export{c as Correspondance};
